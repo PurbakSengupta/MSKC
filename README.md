@@ -100,8 +100,3 @@ IEEEBigData_SpecialSessionDM/
 6. Run `oob_reliability.py`, `cross_site_check.py`, and `mlp_sanity_check.py` for the robustness checks.
 7. Run `detailed_results.py` to consolidate everything, then the scripts in `Fig_code/` to generate the final figures into `Results/Figures/`.
 
----
-
-## A note on the file descriptions above
-
-The per-script descriptions in the tree above are reconstructed from filenames and the project's development history, not verified line-by-line against each script's current contents. If a description doesn't match what a script actually does, trust the script over this README and update the relevant line.
