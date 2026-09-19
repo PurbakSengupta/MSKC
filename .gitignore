@@ -1,0 +1,16 @@
+# Raw downloaded data (see README for Zenodo download links)
+data/
+
+# Generated intermediate/output data (regenerate via the pipeline scripts)
+extracted/
+eda_output/
+Results/*.csv
+Results/*.xlsx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
