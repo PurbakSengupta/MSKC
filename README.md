@@ -1,3 +1,5 @@
+![MSKC](/Results/Figures/MSKC.png?raw=true)
+
 # Minimum-Sufficient Knowledge and Computation (MSKC) for Wind Energy Predictive Analysis
 
 Code accompanying the IEEE BigData Special Session paper on MSKC. This repository tests one narrow, empirically tractable slice of the broader MSKC principle, adaptive knowledge acquisition, on real wind turbine ramp-event forecasting.
